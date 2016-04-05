@@ -6,7 +6,7 @@
 ## Printing
 * 4 x corner.stl (2 of which should be mirrored)
 * 1 x front.stl
-* 2 x center.stl
+* 1 x center.stl
 * 1 x top_face.stl
 * 1 x top_rear.stl
 
